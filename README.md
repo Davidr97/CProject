@@ -10,4 +10,8 @@ Added a fourth line.
 
 Added a fifth line.
 
+<<<<<<< HEAD
 Added a sixth line.
+=======
+Added something else.
+>>>>>>> Added something else.
